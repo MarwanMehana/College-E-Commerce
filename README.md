@@ -1,4 +1,7 @@
 ## Comments From Dr. Soliman
 - **ID:** Add your ID?
 - **Name:** Add your name?
-- **Business Model:** What's the business model are you going to use?
+- **Frontend:** Your frontend framework?
+- **Backend:** Your backend framework?
+- **README file:** write a suitable Readme.md file for other users who are reviewing your project.
+
